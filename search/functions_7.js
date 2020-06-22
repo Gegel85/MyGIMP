@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['generatehttprequest',['generateHttpRequest',['../classMimp_1_1Socket.html#a9a860335c72221ba037df798fa6b0ab9',1,'Mimp::Socket']]],
+  ['get',['get',['../classMimp_1_1ImageOperationFactory.html#a6fe012860bd3396e85d09043a2e876ba',1,'Mimp::ImageOperationFactory::get()'],['../classMimp_1_1ToolFactory.html#a8e664368c364678a94b7657be1f8118c',1,'Mimp::ToolFactory::get()']]],
+  ['getbuffer',['getBuffer',['../classMimp_1_1FrameBuffer.html#aeb2ae71bae7a3480dd49758f3e9a2b68',1,'Mimp::FrameBuffer']]],
+  ['getdrawbuffer',['getDrawBuffer',['../classMimp_1_1FrameBuffer.html#ab2ffa0261fee047d07c550b2f627963f',1,'Mimp::FrameBuffer']]],
+  ['getimagesize',['getImageSize',['../classMimp_1_1Image.html#a565b407edf6e93e76bd8a365e82ba7d4',1,'Mimp::Image']]],
+  ['getioshortcuts',['getIoShortcuts',['../classMimp_1_1ShortcutManager.html#aaa3462e2642060d32e93fb5623abacd8',1,'Mimp::ShortcutManager']]],
+  ['getkeyname',['getKeyName',['../structMimp_1_1Keys_1_1KeyCombination.html#ab7f5c5a9225235a97095d919072dd81a',1,'Mimp::Keys::KeyCombination']]],
+  ['getlayers',['getLayers',['../classMimp_1_1Image.html#a2638b9572293bce3da4752e1e9c6eb44',1,'Mimp::Image::getLayers() noexcept'],['../classMimp_1_1Image.html#a8987f6b9f3adf3ed76d641c2ffdf262c',1,'Mimp::Image::getLayers() const noexcept']]],
+  ['getmenuhierarchy',['getMenuHierarchy',['../classMimp_1_1ImageOperation.html#a882345847ebf31014794bf3a1447e27e',1,'Mimp::ImageOperation']]],
+  ['getname',['getName',['../classMimp_1_1Tool.html#a9493709e582c4f8ac574da6f21fb052a',1,'Mimp::Tool']]],
+  ['getparameterspanel',['getParametersPanel',['../classMimp_1_1ColorPick.html#a8c323d3e46b55dedb347a04b5d4266cd',1,'Mimp::ColorPick::getParametersPanel()'],['../classMimp_1_1EllipseSelectionTool.html#ae8d5a5af8fdc3465abe25aaa134c7d99',1,'Mimp::EllipseSelectionTool::getParametersPanel()'],['../classMimp_1_1Eraser.html#a4eeb24f4ee56348c96b49dea34aa0c6b',1,'Mimp::Eraser::getParametersPanel()'],['../classMimp_1_1Fill.html#a0c8ab733b33466b5f839b4aa858ebb98',1,'Mimp::Fill::getParametersPanel()'],['../classMimp_1_1FillSelection.html#a0111238c1dc75c9681eca2306e7b6341',1,'Mimp::FillSelection::getParametersPanel()'],['../classMimp_1_1Finger.html#a48368b267f4bf3fcc4d1c1de51590bc3',1,'Mimp::Finger::getParametersPanel()'],['../classMimp_1_1Lasso.html#ab6d0144b53d1b5cd074595556d63650e',1,'Mimp::Lasso::getParametersPanel()'],['../classMimp_1_1Move.html#a8e0788983d12f27662fe771a2debda51',1,'Mimp::Move::getParametersPanel()'],['../classMimp_1_1Pencil.html#a27b3c8fc83c21df625b756179ac2c0af',1,'Mimp::Pencil::getParametersPanel()'],['../classMimp_1_1PolygonSelection.html#ab47645ed6933c23837524e869c5bb0c7',1,'Mimp::PolygonSelection::getParametersPanel()'],['../classMimp_1_1RectSelectTool.html#a5cf1f7fc272e8a36b0be4d2ddac87271',1,'Mimp::RectSelectTool::getParametersPanel()'],['../classMimp_1_1SelectByColorTool.html#a36423445542b880cbc4089a80ade77d6',1,'Mimp::SelectByColorTool::getParametersPanel()'],['../classMimp_1_1Text.html#a10e934f18d09d45498e6c16e4acd1ff6',1,'Mimp::Text::getParametersPanel()'],['../classMimp_1_1Tool.html#a8e076c3c30715e8a8ce1d58ecc1ef302',1,'Mimp::Tool::getParametersPanel()']]],
+  ['getpixel',['getPixel',['../classMimp_1_1FrameBuffer.html#aaaa0c3bf36a54d4491aa84712a71615d',1,'Mimp::FrameBuffer']]],
+  ['getpoints',['getPoints',['../classMimp_1_1SelectedArea.html#a9177b72f89996060f63f67f2c62d64c9',1,'Mimp::SelectedArea']]],
+  ['getrectfrombuffer',['getRectFromBuffer',['../classMimp_1_1FrameBuffer.html#aa90fc254435611584c339c1d402c74aa',1,'Mimp::FrameBuffer']]],
+  ['getresponse',['getResponse',['../classMimp_1_1HTTPErrorException.html#a34ec231137cdc46679283ba9300cf3f3',1,'Mimp::HTTPErrorException']]],
+  ['getselectedcolor',['getSelectedColor',['../classMimp_1_1ToolBox.html#ad78461e421c3aeb7be511512cde63bdb',1,'Mimp::ToolBox']]],
+  ['getselectedimage',['getSelectedImage',['../classMimp_1_1Editor.html#a82204c4f80c579d429b71b207b274643',1,'Mimp::Editor']]],
+  ['getselectedlayer',['getSelectedLayer',['../classMimp_1_1Image.html#a60dfe516291c6f514dfd21b833aee933',1,'Mimp::Image::getSelectedLayer() noexcept'],['../classMimp_1_1Image.html#afa6564f10595ce46666191c66750452d',1,'Mimp::Image::getSelectedLayer() const noexcept'],['../classMimp_1_1LayerManager.html#a40bf442f6966a109ea385e1e9e35ebcf',1,'Mimp::LayerManager::getSelectedLayer() noexcept'],['../classMimp_1_1LayerManager.html#a2165fdaf33be688a62cc29351bb242a7',1,'Mimp::LayerManager::getSelectedLayer() const noexcept']]],
+  ['getselectedlayerindex',['getSelectedLayerIndex',['../classMimp_1_1LayerManager.html#afa2d87f763d4abbc1af5a425dce15d49',1,'Mimp::LayerManager']]],
+  ['getselectedtool',['getSelectedTool',['../classMimp_1_1ToolBox.html#a9c88330734604ebf9358476663377614',1,'Mimp::ToolBox']]],
+  ['getsize',['getSize',['../classMimp_1_1FrameBuffer.html#a1442aee6b18463f8dcaac910d73890c6',1,'Mimp::FrameBuffer::getSize()'],['../classMimp_1_1Layer.html#ad5a3d96cccac6c3ac0e6684c54ef2e4e',1,'Mimp::Layer::getSize()'],['../classMimp_1_1LayerManager.html#a6a5a9d357eb595794365e1aeb2e3e195',1,'Mimp::LayerManager::getSize()'],['../classMimp_1_1SelectedArea.html#a02c70e47df51b087093c48e06d3e4d2e',1,'Mimp::SelectedArea::getSize()']]],
+  ['getsockfd',['getSockFd',['../classMimp_1_1Socket.html#a7d5215d18bbd04ba42b261088ea59cd0',1,'Mimp::Socket']]],
+  ['gettools',['getTools',['../classMimp_1_1ToolBox.html#abbe61c8e33a9bd79f0cff9889d911fcd',1,'Mimp::ToolBox']]],
+  ['getwindow',['getWindow',['../classMimp_1_1ToolBox.html#a924089db0453e9e2c22e9a4172a27d0f',1,'Mimp::ToolBox']]],
+  ['getzoomlevel',['getZoomLevel',['../classMimp_1_1CanvasWidget.html#a77ef069f19f4216bb89ab40f758f85c2',1,'Mimp::CanvasWidget']]]
+];
